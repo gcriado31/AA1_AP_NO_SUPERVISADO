@@ -1,3 +1,6 @@
+
+<div style="text-align: right"><img src=https://img.shields.io/badge/status-finished-green?logo=googlecolab alt="Static Badge"></div>
+
 # PRACTICA APRENDIZAJE NO SUPERVISADO
 
 ## AUTORES
