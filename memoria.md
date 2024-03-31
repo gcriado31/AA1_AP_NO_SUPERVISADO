@@ -8,8 +8,6 @@ Grupo 25:
 
 * Guillermo Criado Morato
 
-* Angelo Villar Arias
-
 ---
 
 ## INDICE
